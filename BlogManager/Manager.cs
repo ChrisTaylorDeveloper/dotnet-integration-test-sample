@@ -1,5 +1,3 @@
-using System;
-
 namespace BlogManager;
 
 public class Manager
