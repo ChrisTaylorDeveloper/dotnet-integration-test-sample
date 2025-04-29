@@ -1,4 +1,4 @@
-namespace EFGetStarted.Models;
+namespace BlogManager.Models;
 public class Blog
 {
     public int BlogId { get; set; }

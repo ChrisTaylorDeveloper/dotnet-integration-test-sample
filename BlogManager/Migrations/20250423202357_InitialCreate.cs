@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace EFGetStarted.Migrations
+namespace BlogManager.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

@@ -1,9 +1,9 @@
-using EFGetStarted.Models;
+using BlogManager.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 
-namespace EFGetStarted.Data;
+namespace BlogManager.Data;
 
 public class BloggingContext : DbContext
 {
