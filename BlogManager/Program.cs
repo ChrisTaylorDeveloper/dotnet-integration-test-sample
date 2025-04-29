@@ -1,7 +1,7 @@
 // See https://aka.ms/new-console-template for more information
-using Microsoft.EntityFrameworkCore;
 using BlogManager.Data;
 using BlogManager.Models;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 
